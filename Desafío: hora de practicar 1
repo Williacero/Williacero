@@ -1,0 +1,11 @@
+alert ("¡Bienvenida y bienvenido a nuestro sitio web!" + respuesta);
+let nombre = "Luna";
+let edad = 25;
+let numero de ventas = 50;
+let Saldo disponible = 1000;
+alert =  "¡Error! Completa todos los campos";
+let Mensaje de error = ¡Error!Completa todos los campos; alert(mensajeDeError);
+let nombre = prompt('Digite su nombre');
+let edad = prompt('Digite su edad');
+if (edad >= 18) {
+alert = "¡Puedes obtener tu licencia de conducir!";}
